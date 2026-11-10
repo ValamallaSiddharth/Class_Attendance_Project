@@ -1,0 +1,16 @@
+services:
+  attendance-system:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: smart_attendance_app
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./cctv_videos:/app/cctv_videos
+      - ./exports:/app/exports
+      - ./data:/app/data
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+      - FLASK_RUN_HOST=0.0.0.0

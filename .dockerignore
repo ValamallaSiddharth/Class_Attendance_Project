@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+my-react-website/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.github/
+.vscode/
+runtime/checkpoint_frames/*
+runtime/evidence_images/*
+runtime/raw_clips/*
+cctv_videos/*.mp4
+cctv_videos/*.avi
