@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Attendance Detail</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 30px;
+      font-family: Arial, sans-serif;
+      background: #eef3f8;
+      color: #0f172a;
+    }
+
+    .card {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      border-radius: 18px;
+      padding: 28px;
+      box-shadow: 0 12px 35px rgba(15, 23, 42, 0.12);
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      color: #071e3d;
+    }
+
+    p {
+      color: #64748b;
+      line-height: 1.6;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 24px;
+    }
+
+    th, td {
+      padding: 14px;
+      border-bottom: 1px solid #dbe4ef;
+      text-align: left;
+    }
+
+    th {
+      background: #f8fbff;
+      color: #64748b;
+      text-transform: uppercase;
+      font-size: 12px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 12px;
+    }
+
+    .present {
+      color: #116235;
+      background: #eaf8ef;
+    }
+
+    .absent {
+      color: #991b1b;
+      background: #fdecec;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>Student Attendance Detail</h1>
+    <p>Sreenidhi University Smart Attendance Report</p>
+
+    <div>
+      {{STUDENT_DETAIL}}
+      {{STUDENT_ROWS}}
+      {{TABLE_ROWS}}
+      {{CONTENT}}
+    </div>
+  </div>
+</body>
+</html>

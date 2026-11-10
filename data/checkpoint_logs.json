@@ -1,0 +1,13 @@
+{
+  "Thursday_P2": {
+    "key": "Thursday_P2",
+    "day": "Thursday",
+    "period": "P2",
+    "checkpoint_mode": true,
+    "total_checkpoints": 5,
+    "required_checkpoints": 3,
+    "frames_processed": 300,
+    "videos_processed": 3,
+    "completed_at": "25-06-2026 01:55:02 PM"
+  }
+}

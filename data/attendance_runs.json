@@ -1,0 +1,1690 @@
+{
+  "Tuesday_P1": {
+    "key": "Tuesday_P1",
+    "day": "Tuesday",
+    "period": "P1",
+    "subject": "CCM/CVO",
+    "course_code": "24CSEJ602/24AMLJ502",
+    "course_name": "Cloud Computing / Computer Vision",
+    "teacher": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "assigned_faculty": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "controlled_by": "Main Admin",
+    "controller_role": "Attendance Controller",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "room": "1106",
+    "status": "Completed",
+    "report_type": "Admin Edited",
+    "job_id": "9A98D320",
+    "present_count": 11,
+    "absent_count": 7,
+    "total_students": 18,
+    "attendance_percentage": 61.1,
+    "students": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Absent",
+        "detection_count": 86,
+        "best_similarity": 0.572,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "original_ai_status": "Present",
+        "manual_override": true,
+        "override_reason": "Smoke test edit",
+        "edited_by": "Main Admin",
+        "edited_at": "25-06-2026 10:49:17 AM"
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 18,
+        "best_similarity": 0.531,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 69,
+        "best_similarity": 0.711,
+        "average_similarity": 0.562,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 142,
+        "best_similarity": 0.705,
+        "average_similarity": 0.485,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 87,
+        "best_similarity": 0.566,
+        "average_similarity": 0.479,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.437,
+        "average_similarity": 0.435,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 8,
+        "best_similarity": 0.47,
+        "average_similarity": 0.451,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.47,
+        "average_similarity": 0.446,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 9,
+        "best_similarity": 0.481,
+        "average_similarity": 0.445,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.513,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 63,
+        "best_similarity": 0.605,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.468,
+        "average_similarity": 0.462,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 19,
+        "best_similarity": 0.467,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 141,
+        "best_similarity": 0.577,
+        "average_similarity": 0.478,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 22,
+        "best_similarity": 0.501,
+        "average_similarity": 0.455,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      }
+    ],
+    "attendance_data": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Absent",
+        "detection_count": 86,
+        "best_similarity": 0.572,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "original_ai_status": "Present",
+        "manual_override": true,
+        "override_reason": "Smoke test edit",
+        "edited_by": "Main Admin",
+        "edited_at": "25-06-2026 10:49:17 AM"
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 18,
+        "best_similarity": 0.531,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 69,
+        "best_similarity": 0.711,
+        "average_similarity": 0.562,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 142,
+        "best_similarity": 0.705,
+        "average_similarity": 0.485,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 87,
+        "best_similarity": 0.566,
+        "average_similarity": 0.479,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.437,
+        "average_similarity": 0.435,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 8,
+        "best_similarity": 0.47,
+        "average_similarity": 0.451,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.47,
+        "average_similarity": 0.446,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 9,
+        "best_similarity": 0.481,
+        "average_similarity": 0.445,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.513,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 63,
+        "best_similarity": 0.605,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.468,
+        "average_similarity": 0.462,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 19,
+        "best_similarity": 0.467,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": []
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 141,
+        "best_similarity": 0.577,
+        "average_similarity": 0.478,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 22,
+        "best_similarity": 0.501,
+        "average_similarity": 0.455,
+        "detected_in_videos": [
+          "video1.mp4"
+        ]
+      }
+    ],
+    "selected_videos": [
+      "video1.mp4"
+    ],
+    "is_reprocessed": true,
+    "manual_edits_applied": true,
+    "created_at": "25-06-2026 10:30:44 AM",
+    "completed_at": "25-06-2026 10:49:16 AM",
+    "result": {
+      "total_students": 18,
+      "present_count": 11,
+      "absent_count": 7,
+      "attendance_percentage": 61.1,
+      "class_report_file": null,
+      "teacher_dashboard_file": null,
+      "selected_videos": [
+        "video1.mp4"
+      ]
+    },
+    "last_edited_at": "25-06-2026 10:49:17 AM",
+    "edited_by": "Main Admin"
+  },
+  "Thursday_P1": {
+    "key": "Thursday_P1",
+    "day": "Thursday",
+    "period": "P1",
+    "subject": "CCM/CVO",
+    "course_code": "24CSEJ602/24AMLJ502",
+    "course_name": "Cloud Computing / Computer Vision",
+    "teacher": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "assigned_faculty": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "controlled_by": "Main Admin",
+    "controller_role": "Attendance Controller",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "room": "1106",
+    "status": "Completed",
+    "report_type": "AI",
+    "job_id": "B73C722C",
+    "present_count": 17,
+    "absent_count": 1,
+    "total_students": 18,
+    "attendance_percentage": 94.4,
+    "students": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Present",
+        "detection_count": 201,
+        "best_similarity": 0.586,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 230,
+        "best_similarity": 0.573,
+        "average_similarity": 0.469,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 192,
+        "best_similarity": 0.711,
+        "average_similarity": 0.534,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 428,
+        "best_similarity": 0.737,
+        "average_similarity": 0.544,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 339,
+        "best_similarity": 0.624,
+        "average_similarity": 0.491,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Present",
+        "detection_count": 5,
+        "best_similarity": 0.47,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 21,
+        "best_similarity": 0.489,
+        "average_similarity": 0.444,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Present",
+        "detection_count": 179,
+        "best_similarity": 0.613,
+        "average_similarity": 0.496,
+        "detected_in_videos": [
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Present",
+        "detection_count": 64,
+        "best_similarity": 0.553,
+        "average_similarity": 0.465,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 76,
+        "best_similarity": 0.507,
+        "average_similarity": 0.449,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 60,
+        "best_similarity": 0.513,
+        "average_similarity": 0.45,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 230,
+        "best_similarity": 0.605,
+        "average_similarity": 0.461,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Present",
+        "detection_count": 18,
+        "best_similarity": 0.495,
+        "average_similarity": 0.452,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.467,
+        "average_similarity": 0.441,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Present",
+        "detection_count": 10,
+        "best_similarity": 0.479,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video2.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 1,
+        "best_similarity": 0.453,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 414,
+        "best_similarity": 0.705,
+        "average_similarity": 0.518,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 121,
+        "best_similarity": 0.555,
+        "average_similarity": 0.464,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      }
+    ],
+    "attendance_data": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Present",
+        "detection_count": 201,
+        "best_similarity": 0.586,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 230,
+        "best_similarity": 0.573,
+        "average_similarity": 0.469,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 192,
+        "best_similarity": 0.711,
+        "average_similarity": 0.534,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 428,
+        "best_similarity": 0.737,
+        "average_similarity": 0.544,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 339,
+        "best_similarity": 0.624,
+        "average_similarity": 0.491,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Present",
+        "detection_count": 5,
+        "best_similarity": 0.47,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 21,
+        "best_similarity": 0.489,
+        "average_similarity": 0.444,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Present",
+        "detection_count": 179,
+        "best_similarity": 0.613,
+        "average_similarity": 0.496,
+        "detected_in_videos": [
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Present",
+        "detection_count": 64,
+        "best_similarity": 0.553,
+        "average_similarity": 0.465,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 76,
+        "best_similarity": 0.507,
+        "average_similarity": 0.449,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 60,
+        "best_similarity": 0.513,
+        "average_similarity": 0.45,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 230,
+        "best_similarity": 0.605,
+        "average_similarity": 0.461,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Present",
+        "detection_count": 18,
+        "best_similarity": 0.495,
+        "average_similarity": 0.452,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.467,
+        "average_similarity": 0.441,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ]
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Present",
+        "detection_count": 10,
+        "best_similarity": 0.479,
+        "average_similarity": 0.442,
+        "detected_in_videos": [
+          "video2.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 1,
+        "best_similarity": 0.453,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 414,
+        "best_similarity": 0.705,
+        "average_similarity": 0.518,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 121,
+        "best_similarity": 0.555,
+        "average_similarity": 0.464,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4",
+          "video3.mp4"
+        ]
+      }
+    ],
+    "selected_videos": [
+      "video1.mp4",
+      "video2.mp4",
+      "video3.mp4"
+    ],
+    "is_reprocessed": false,
+    "manual_edits_applied": false,
+    "created_at": "25-06-2026 11:00:10 AM",
+    "completed_at": "25-06-2026 11:00:10 AM",
+    "result": {
+      "total_students": 18,
+      "present_count": 17,
+      "absent_count": 1,
+      "attendance_percentage": 94.4,
+      "class_report_file": null,
+      "teacher_dashboard_file": null,
+      "selected_videos": [
+        "video1.mp4",
+        "video2.mp4",
+        "video3.mp4"
+      ]
+    }
+  },
+  "Thursday_P2": {
+    "key": "Thursday_P2",
+    "day": "Thursday",
+    "period": "P2",
+    "subject": "CCM/CVO",
+    "course_code": "24CSEJ602/24AMLJ502",
+    "course_name": "Cloud Computing / Computer Vision",
+    "teacher": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "assigned_faculty": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "controlled_by": "Main Admin",
+    "controller_role": "Attendance Controller",
+    "start_time": "09:50",
+    "end_time": "10:40",
+    "room": "1106",
+    "status": "Completed",
+    "report_type": "AI",
+    "job_id": "73AD62B0",
+    "present_count": 12,
+    "absent_count": 6,
+    "total_students": 18,
+    "attendance_percentage": 66.7,
+    "students": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Present",
+        "detection_count": 86,
+        "best_similarity": 0.572,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.531,
+        "average_similarity": 0.461,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 69,
+        "best_similarity": 0.711,
+        "average_similarity": 0.562,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 146,
+        "best_similarity": 0.705,
+        "average_similarity": 0.484,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 89,
+        "best_similarity": 0.566,
+        "average_similarity": 0.479,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.437,
+        "average_similarity": 0.435,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 8,
+        "best_similarity": 0.47,
+        "average_similarity": 0.451,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.47,
+        "average_similarity": 0.446,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 10,
+        "best_similarity": 0.481,
+        "average_similarity": 0.447,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.513,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 65,
+        "best_similarity": 0.605,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.468,
+        "average_similarity": 0.462,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 20,
+        "best_similarity": 0.467,
+        "average_similarity": 0.441,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 144,
+        "best_similarity": 0.577,
+        "average_similarity": 0.478,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.501,
+        "average_similarity": 0.454,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      }
+    ],
+    "attendance_data": [
+      {
+        "roll_number": "2401100CSE0019",
+        "status": "Present",
+        "detection_count": 86,
+        "best_similarity": 0.572,
+        "average_similarity": 0.477,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0044",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.531,
+        "average_similarity": 0.461,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0050",
+        "status": "Present",
+        "detection_count": 69,
+        "best_similarity": 0.711,
+        "average_similarity": 0.562,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0052",
+        "status": "Present",
+        "detection_count": 146,
+        "best_similarity": 0.705,
+        "average_similarity": 0.484,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0060",
+        "status": "Present",
+        "detection_count": 89,
+        "best_similarity": 0.566,
+        "average_similarity": 0.479,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0067",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.437,
+        "average_similarity": 0.435,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0073",
+        "status": "Present",
+        "detection_count": 8,
+        "best_similarity": 0.47,
+        "average_similarity": 0.451,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0093",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0097",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.47,
+        "average_similarity": 0.446,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0109",
+        "status": "Present",
+        "detection_count": 10,
+        "best_similarity": 0.481,
+        "average_similarity": 0.447,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0111",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.513,
+        "average_similarity": 0.453,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0124",
+        "status": "Present",
+        "detection_count": 65,
+        "best_similarity": 0.605,
+        "average_similarity": 0.46,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0184",
+        "status": "Absent",
+        "detection_count": 2,
+        "best_similarity": 0.468,
+        "average_similarity": 0.462,
+        "detected_in_videos": [
+          "video1.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0202",
+        "status": "Present",
+        "detection_count": 20,
+        "best_similarity": 0.467,
+        "average_similarity": 0.441,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "2401100CSE0209",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0007",
+        "status": "Absent",
+        "detection_count": 0,
+        "best_similarity": 0.0,
+        "average_similarity": 0.0,
+        "detected_in_videos": [],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0051",
+        "status": "Present",
+        "detection_count": 144,
+        "best_similarity": 0.577,
+        "average_similarity": 0.478,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      },
+      {
+        "roll_number": "24011CSEAI0103",
+        "status": "Present",
+        "detection_count": 23,
+        "best_similarity": 0.501,
+        "average_similarity": 0.454,
+        "detected_in_videos": [
+          "video1.mp4",
+          "video2.mp4"
+        ],
+        "checkpoints_detected": 0,
+        "required_checkpoints": 3,
+        "total_checkpoints": 5,
+        "detected_checkpoints": [],
+        "evidence_images": [],
+        "evidence_available": false,
+        "manual_override": false,
+        "original_ai_status": null,
+        "override_reason": null,
+        "edited_by": null,
+        "edited_at": null
+      }
+    ],
+    "selected_videos": [
+      "video1.mp4",
+      "video2.mp4",
+      "video3.mp4"
+    ],
+    "videos_processed": 3,
+    "frames_processed": 300,
+    "avg_confidence": 44.9,
+    "checkpoint_mode": true,
+    "total_checkpoints": 5,
+    "required_checkpoints": 3,
+    "frames_per_checkpoint": 10,
+    "checkpoint_interval_minutes": 10,
+    "raw_video_retention_days": 1,
+    "evidence_retention_days": 7,
+    "is_reprocessed": false,
+    "manual_edits_applied": false,
+    "created_at": "25-06-2026 01:55:02 PM",
+    "completed_at": "25-06-2026 01:55:02 PM",
+    "result": {
+      "total_students": 18,
+      "present_count": 12,
+      "absent_count": 6,
+      "attendance_percentage": 66.7,
+      "selected_videos": [
+        "video1.mp4",
+        "video2.mp4",
+        "video3.mp4"
+      ]
+    }
+  }
+}

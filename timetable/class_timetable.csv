@@ -1,0 +1,45 @@
+day,period,subject,start_time,end_time,room,course_code,course_name,teacher
+Monday,P1,SWE,09:00,09:50,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Monday,P2,SWE,09:50,10:40,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Monday,P3,CCM/CVO LAB,10:50,11:40,1016,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Monday,P4,CCM/CVO LAB,11:40,12:30,1016,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Monday,P5,LUNCH,12:30,13:20,-,-,Lunch,-
+Monday,P6,SWE,13:20,14:10,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Monday,P7,CCM/CVO,14:20,15:10,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Monday,P8,CCM/CVO,15:10,16:00,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+
+Tuesday,P1,CCM/CVO,09:00,09:50,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Tuesday,P2,CCM/CVO,09:50,10:40,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Tuesday,P3,SWE,10:50,11:40,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Tuesday,P4,SWE,11:40,12:30,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Tuesday,P5,LUNCH,12:30,13:20,-,-,Lunch,-
+Tuesday,P6,CCM/CVO,13:20,14:10,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Tuesday,P7,SWE LAB,14:20,15:10,1016,24CSEJ601,Software Engineering Lab,Dr. Keerthi G
+Tuesday,P8,SWE LAB,15:10,16:00,1016,24CSEJ601,Software Engineering Lab,Dr. Keerthi G
+
+Wednesday,P1,SWE,09:00,09:50,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Wednesday,P2,SWE,09:50,10:40,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Wednesday,P3,CCM/CVO,10:50,11:40,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Wednesday,P4,CCM/CVO,11:40,12:30,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Wednesday,P5,LUNCH,12:30,13:20,-,-,Lunch,-
+Wednesday,P6,SWE,13:20,14:10,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Wednesday,P7,CCM/CVO LAB,14:20,15:10,1016,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision Lab,Dr. Pranayanath Reddy A / Mr. Vikas B
+Wednesday,P8,CCM/CVO LAB,15:10,16:00,1016,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision Lab,Dr. Pranayanath Reddy A / Mr. Vikas B
+
+Thursday,P1,CCM/CVO,09:00,09:50,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Thursday,P2,CCM/CVO,09:50,10:40,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Thursday,P3,SWE,10:50,11:40,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Thursday,P4,SWE,11:40,12:30,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Thursday,P5,LUNCH,12:30,13:20,-,-,Lunch,-
+Thursday,P6,CCM/CVO,13:20,14:10,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Thursday,P7,SWE LAB,14:20,15:10,1016,24CSEJ601,Software Engineering Lab,Dr. Keerthi G
+Thursday,P8,SWE LAB,15:10,16:00,1016,24CSEJ601,Software Engineering Lab,Dr. Keerthi G
+
+Friday,P1,SWE,09:00,09:50,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Friday,P2,SWE,09:50,10:40,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Friday,P3,CCM/CVO,10:50,11:40,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Friday,P4,CCM/CVO,11:40,12:30,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Friday,P5,LUNCH,12:30,13:20,-,-,Lunch,-
+Friday,P6,SWE,13:20,14:10,1106,24CSEJ601,Software Engineering,Dr. Keerthi G
+Friday,P7,CCM/CVO,14:20,15:10,1106,24CSEJ602/24AMLJ502,Cloud Computing / Computer Vision,Dr. Pranayanath Reddy A / Mr. Vikas B
+Friday,P8,SWE/CCM/CVO,15:10,16:00,1106,24CSEJ601/24CSEJ602/24AMLJ502,Software Engineering / Cloud Computing / Computer Vision,Dr. Keerthi G / Dr. Pranayanath Reddy A / Mr. Vikas B

@@ -1,0 +1,12 @@
+{
+  "name": "class-attendance-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix my-react-website run dev",
+    "build": "npm --prefix my-react-website run build",
+    "preview": "npm --prefix my-react-website run preview",
+    "lint": "npm --prefix my-react-website run lint"
+  }
+}

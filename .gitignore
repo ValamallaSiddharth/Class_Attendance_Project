@@ -1,0 +1,54 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python byte-code and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Node.js dependencies and logs
+node_modules/
+my-react-website/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build dist (can be rebuilt with npm run build)
+# Uncomment if dist should not be tracked:
+# my-react-website/dist/
+
+# Runtime evidence, checkpoint frames and temp logs
+runtime/checkpoint_frames/*
+!runtime/checkpoint_frames/.gitkeep
+runtime/evidence_images/*
+!runtime/evidence_images/.gitkeep
+runtime/raw_clips/*
+!runtime/raw_clips/.gitkeep
+runtime/last_attendance_run.txt
+
+# CCTV heavy video assets
+cctv_videos/*.mp4
+cctv_videos/*.avi
+cctv_videos/*.mkv
+cctv_videos/*.mov
+!cctv_videos/.gitkeep
+
+# Dataset images (facial data)
+dataset/*
+!dataset/.gitkeep
+cropped_dataset/*
+!cropped_dataset/.gitkeep
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo

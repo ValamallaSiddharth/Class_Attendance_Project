@@ -1,0 +1,180 @@
+{
+  "Tuesday_P1": {
+    "key": "Tuesday_P1",
+    "day": "Tuesday",
+    "period": "P1",
+    "subject": "CCM/CVO",
+    "course_code": "24CSEJ602/24AMLJ502",
+    "course_name": "Cloud Computing / Computer Vision",
+    "teacher": "Dr. Pranayanath Reddy A / Mr. Vikas B",
+    "controlled_by": "Main Admin",
+    "controller_role": "Attendance Controller",
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "room": "1106",
+    "status": "Completed",
+    "report_type": "Reprocessed",
+    "job_id": "E06FD924",
+    "class_report_file": "CCM_CVO_Tuesday_P1_20260623_132243.html",
+    "teacher_dashboard_file": "teacher_dashboard_Tuesday_P1_20260623_132243.html",
+    "completed_at": "23-06-2026 01:22:43 PM",
+    "present_count": 17,
+    "absent_count": 1,
+    "total_students": 18,
+    "attendance_percentage": 94.4,
+    "attendance_data": [
+      {
+        "Roll_Number": "2401100CSE0019",
+        "Status": "Present",
+        "Detection_Count": 201,
+        "Best_Similarity": 0.586,
+        "Average_Similarity": 0.477,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0044",
+        "Status": "Present",
+        "Detection_Count": 230,
+        "Best_Similarity": 0.573,
+        "Average_Similarity": 0.469,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0050",
+        "Status": "Present",
+        "Detection_Count": 192,
+        "Best_Similarity": 0.711,
+        "Average_Similarity": 0.534,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0052",
+        "Status": "Present",
+        "Detection_Count": 428,
+        "Best_Similarity": 0.737,
+        "Average_Similarity": 0.544,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0060",
+        "Status": "Present",
+        "Detection_Count": 339,
+        "Best_Similarity": 0.624,
+        "Average_Similarity": 0.491,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0067",
+        "Status": "Present",
+        "Detection_Count": 5,
+        "Best_Similarity": 0.47,
+        "Average_Similarity": 0.442,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0073",
+        "Status": "Present",
+        "Detection_Count": 21,
+        "Best_Similarity": 0.489,
+        "Average_Similarity": 0.444,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0093",
+        "Status": "Present",
+        "Detection_Count": 179,
+        "Best_Similarity": 0.613,
+        "Average_Similarity": 0.496,
+        "Detected_In_Videos": "video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0097",
+        "Status": "Present",
+        "Detection_Count": 64,
+        "Best_Similarity": 0.553,
+        "Average_Similarity": 0.465,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0109",
+        "Status": "Present",
+        "Detection_Count": 76,
+        "Best_Similarity": 0.507,
+        "Average_Similarity": 0.449,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0111",
+        "Status": "Present",
+        "Detection_Count": 60,
+        "Best_Similarity": 0.513,
+        "Average_Similarity": 0.45,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0124",
+        "Status": "Present",
+        "Detection_Count": 230,
+        "Best_Similarity": 0.605,
+        "Average_Similarity": 0.461,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0184",
+        "Status": "Present",
+        "Detection_Count": 18,
+        "Best_Similarity": 0.495,
+        "Average_Similarity": 0.452,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0202",
+        "Status": "Present",
+        "Detection_Count": 23,
+        "Best_Similarity": 0.467,
+        "Average_Similarity": 0.441,
+        "Detected_In_Videos": "video1.mp4, video2.mp4"
+      },
+      {
+        "Roll_Number": "2401100CSE0209",
+        "Status": "Present",
+        "Detection_Count": 10,
+        "Best_Similarity": 0.479,
+        "Average_Similarity": 0.442,
+        "Detected_In_Videos": "video2.mp4"
+      },
+      {
+        "Roll_Number": "24011CSEAI0007",
+        "Status": "Absent",
+        "Detection_Count": 1,
+        "Best_Similarity": 0.453,
+        "Average_Similarity": 0.453,
+        "Detected_In_Videos": "video3.mp4"
+      },
+      {
+        "Roll_Number": "24011CSEAI0051",
+        "Status": "Present",
+        "Detection_Count": 414,
+        "Best_Similarity": 0.705,
+        "Average_Similarity": 0.518,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      },
+      {
+        "Roll_Number": "24011CSEAI0103",
+        "Status": "Present",
+        "Detection_Count": 121,
+        "Best_Similarity": 0.555,
+        "Average_Similarity": 0.464,
+        "Detected_In_Videos": "video1.mp4, video2.mp4, video3.mp4"
+      }
+    ],
+    "video_files": [
+      "video1.mp4",
+      "video2.mp4",
+      "video3.mp4"
+    ],
+    "error": null,
+    "created_at": "23-06-2026 10:01:04 AM",
+    "started_at": "23-06-2026 01:14:24 PM"
+  }
+}
